@@ -1,5 +1,5 @@
-
 # my solution
+# learned about array.count(n) to pick specific numbers
 def score( dice )
 
 points = 0
