@@ -1,4 +1,4 @@
-# best solution from another use
+# best solution from another user
 def find_children(brigade)
   brigade.chars.sort_by{|letter| [letter.downcase, letter]}.join
 end
