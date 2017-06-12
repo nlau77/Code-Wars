@@ -1,1 +1,1 @@
-A collection of practice problems from Codewars.
+A collection of practice problems from Codewars.  Codewars has been great resource to practice various coding problems. It has also been useful for learning new methods and ways of thinking by studying the clever and best solutions from other users. 
