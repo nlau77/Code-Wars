@@ -1,5 +1,5 @@
 // question
-Find the index for each captial letter in string
+Find the index for each captial letter in a string
 
 // example
 capitals("aPPle") -> [1, 2]
